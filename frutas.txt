@@ -4,5 +4,6 @@ pera
 uva
 abacaxi
 morango
-melanciadamasco
+melancia
+damasco
 uva
